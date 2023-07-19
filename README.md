@@ -1,4 +1,5 @@
 # SagePort: A Zk STARK Blockchain
+![Silver (1)](https://github.com/991creator/SagePort.go/assets/126946426/3722e81d-b90a-4e6f-b9c4-67bfdd4e0383)
 SagePort is an open-source blockchain implementation based on Zk STARK technology, designed to provide scalable, transparent, and privacy-enhanced transactions within a decentralized network. It leverages the power of Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge (Zk STARKs) to achieve efficient and secure transaction verification without revealing sensitive information.
 
 # Key Features
